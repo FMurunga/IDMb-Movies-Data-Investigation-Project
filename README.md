@@ -1,3 +1,4 @@
-# TMDB-Movies-Data-Investigation-Project
-Data Investigation of IDMb Movies Dataset
+# TMDb-Movies-Data-Investigation-Project
+Data Investigation of TMDb Movies Dataset
+The data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 Udacity-ALX project #1
